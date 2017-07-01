@@ -6,3 +6,5 @@ mejora
 otra mejora
 
 nueva funcionalidad
+
+funcionalidad clase
